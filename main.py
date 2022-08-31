@@ -24,8 +24,4 @@ while True:
     else:
         continue
 
-
-
-
-
-
+#test
